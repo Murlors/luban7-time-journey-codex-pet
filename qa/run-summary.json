@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite",
+  "spritesheet": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/final/spritesheet.webp",
+  "validation": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/final/validation.json",
+  "contact_sheet": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/qa/contact-sheet.png",
+  "review": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/qa/review.json",
+  "videos": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/qa/videos",
+  "package": "/Users/alex/.codex/pets/editor-luban-time-journey"
+}
