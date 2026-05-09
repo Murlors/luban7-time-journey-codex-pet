@@ -23,6 +23,7 @@ Create a Codex-compatible animated pet inspired by Luban No.7's Time Journey ski
 - Base pet was regenerated after color review to lock the corrected split red-and-white front bangs.
 - Row jobs delegated to subagents for grounded animation generation.
 - `running-left` was generated separately instead of mirrored because the pet has asymmetric hair and props.
+- `running-right` was regenerated after review so the motion reads as rightward travel while preserving the viewer-left white bang, viewer-right red bang, and a compact footprint close to the other rows.
 - A `running` candidate with detached yellow marks was rejected and regenerated before final ingestion.
 - Parent workflow recorded all selected imagegen outputs, composed the final atlas, generated QA media, and packaged the Codex pet.
 
