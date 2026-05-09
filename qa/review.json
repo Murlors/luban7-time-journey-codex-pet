@@ -119,101 +119,101 @@
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17986,
+          "nontransparent_pixels": 18835,
           "bbox": [
-            21,
+            22,
             5,
-            171,
+            170,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 435
+          "chroma_adjacent_pixels": 366
         },
         {
           "index": 1,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18033,
+          "nontransparent_pixels": 18284,
           "bbox": [
-            21,
+            22,
             5,
             170,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 385
+          "chroma_adjacent_pixels": 329
         },
         {
           "index": 2,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 17937,
+          "nontransparent_pixels": 18578,
           "bbox": [
-            21,
+            20,
             5,
-            170,
+            171,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 385
+          "chroma_adjacent_pixels": 325
         },
         {
           "index": 3,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18261,
+          "nontransparent_pixels": 17525,
           "bbox": [
-            21,
+            23,
             5,
-            171,
+            169,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 372
+          "chroma_adjacent_pixels": 368
         },
         {
           "index": 4,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18124,
+          "nontransparent_pixels": 19360,
           "bbox": [
-            21,
+            17,
             5,
-            171,
+            174,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 458
+          "chroma_adjacent_pixels": 376
         },
         {
           "index": 5,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18188,
+          "nontransparent_pixels": 16937,
           "bbox": [
-            21,
+            24,
             5,
-            170,
+            167,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 458
+          "chroma_adjacent_pixels": 306
         },
         {
           "index": 6,
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18147,
+          "nontransparent_pixels": 18613,
           "bbox": [
-            21,
+            20,
             5,
-            170,
+            171,
             203
           ],
           "edge_pixels": 0,
@@ -224,15 +224,15 @@
           "file": "/Users/alex/Documents/Codex/2026-05-08/hatch-pet-users-alex-codex-skills/runs/editor-luban-time-journey-redwhite/frames/running-right/07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 18057,
+          "nontransparent_pixels": 17272,
           "bbox": [
-            21,
+            25,
             5,
-            170,
+            167,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 438
+          "chroma_adjacent_pixels": 377
         }
       ]
     },
