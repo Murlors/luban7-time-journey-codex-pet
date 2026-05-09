@@ -39,8 +39,8 @@ Animated WebP previews are included so the pet can animate directly inside GitHu
 Copy this folder into your Codex pets directory:
 
 ```bash
-mkdir -p ~/.codex/pets/editor-luban-time-journey
-cp pet.json spritesheet.webp ~/.codex/pets/editor-luban-time-journey/
+mkdir -p ~/.codex/pets/luban7-time-journey
+cp pet.json spritesheet.webp ~/.codex/pets/luban7-time-journey/
 ```
 
 Codex expects `pet.json` and `spritesheet.webp` to live together in the same pet folder.
@@ -66,4 +66,3 @@ Validation passed with no errors or warnings in both `qa/review.json` and `qa/va
 This repository is an unofficial fan-made pet asset. It is not affiliated with or endorsed by Honor of Kings, Tencent, TiMi Studio Group, or any related rights holder.
 
 No open-source license is included by default. See `NOTICE.md` before publishing or redistributing.
-

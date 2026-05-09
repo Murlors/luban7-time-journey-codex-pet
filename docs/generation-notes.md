@@ -12,7 +12,7 @@ Create a Codex-compatible animated pet inspired by Luban No.7's Time Journey ski
 
 ## Visual Constraints
 
-- Manga-proofreader/editor Luban No.7-inspired fan pet.
+- Time Journey Luban No.7-inspired fan pet.
 - Corrected hair identity: front bangs are split two-color, viewer-left white or pale cream and viewer-right vivid red; the hair must not collapse into orange or a single red-orange color.
 - Pixel-art-adjacent Codex digital pet style: compact chibi proportions, dark outline, limited palette, flat cel shading, readable at 192x208 cells.
 - Preserve black suit, red tie, cat-ear hat, red bird, glasses, stamp cannon, and helper robot as compact identity cues.
@@ -36,4 +36,3 @@ Create a Codex-compatible animated pet inspired by Luban No.7's Time Journey ski
 - QA reports: `qa/review.json`, `qa/validation.json`
 - Visual review: contact sheet checked for identity consistency, corrected red-and-white bangs across all rows, row completeness, transparent unused cells, and forbidden effects.
 - README previews: animated WebP files in `qa/previews/` generated from the validated 192x208 frame PNGs with `img2webp`.
-
